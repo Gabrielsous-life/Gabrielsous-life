@@ -2,6 +2,7 @@
 
 Desenvolvedor em formação em Londrina - PR, participante do programa **goIT** (TCS + Marista).
 Gosto de construir projetos que resolvem problemas reais, do front-end ao back-end e à integração com hardware.
+Uso IA como ferramenta no dia a dia de desenvolvimento e meu próximo passo é cursar **Banco de Dados com IA**, com foco em seguir para uma pós em **Engenharia de Software**.
 
 ## Tecnologias
 
@@ -22,6 +23,13 @@ Gosto de construir projetos que resolvem problemas reais, do front-end ao back-e
 | [VideoMax: Locadora Anos 90](https://github.com/Gabrielsous-life/locadora-anos90) | Site retrô de locadora de vídeo. [Ver online](https://gabrielsous-life.github.io/locadora-anos90/) | HTML, CSS |
 | [Formulário de Inscrição](https://github.com/Gabrielsous-life/Formulario-entrada) | Formulário responsivo com validação e mostrar/ocultar senha. [Ver online](https://gabrielsous-life.github.io/Formulario-entrada/) | HTML, CSS, JavaScript |
 | [Conversor de Temperatura](https://github.com/Gabrielsous-life/conversor-temperatura2) | CLI que converte Celsius para Fahrenheit e Kelvin. | Python |
+
+## Estudos
+
+| Repositório | Conteúdo |
+|---|---|
+| [python-exercicios](https://github.com/Gabrielsous-life/python-exercicios) | Exercícios e aulas de Python: laços, condicionais, tuplas e listas. |
+| [JS-1-20-](https://github.com/Gabrielsous-life/JS-1-20-) | 20 exercícios de fundamentos de JavaScript: variáveis, tipos, operadores e template strings. |
 
 ## Contato
 
