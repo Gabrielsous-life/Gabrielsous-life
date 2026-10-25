@@ -26,3 +26,4 @@ Gosto de construir projetos que resolvem problemas reais, do front-end ao back-e
 ## Contato
 
 - E-mail: gabriel.ag.silva.gotardo@gmail.com
+- LinkedIn: [gabriel-silvagotardo](https://www.linkedin.com/in/gabriel-silvagotardo/)
