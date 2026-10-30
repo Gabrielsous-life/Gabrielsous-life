@@ -4,6 +4,8 @@ Desenvolvedor em formação em Londrina - PR, participante do programa **goIT** 
 Gosto de construir projetos que resolvem problemas reais, do front-end ao back-end e à integração com hardware.
 Uso IA como ferramenta no dia a dia de desenvolvimento e meu próximo passo é cursar **Banco de Dados com IA**, com foco em seguir para uma pós em **Engenharia de Software**.
 
+🌐 **Portfólio:** [gabrielsous-life.github.io](https://gabrielsous-life.github.io)
+
 ## Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,5 +37,6 @@ Uso IA como ferramenta no dia a dia de desenvolvimento e meu próximo passo é c
 
 ## Contato
 
+- Portfólio: [gabrielsous-life.github.io](https://gabrielsous-life.github.io)
 - E-mail: gabriel.ag.silva.gotardo@gmail.com
 - LinkedIn: [gabriel-silvagotardo](https://www.linkedin.com/in/gabriel-silvagotardo/)
